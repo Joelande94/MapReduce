@@ -1,0 +1,8 @@
+Map 00:02:16
+Reduce 00:00:16
+total 00:02:38
+
+With combiner:
+Map 00:02:34
+Reduce 00:00:03
+total 00:02:37
