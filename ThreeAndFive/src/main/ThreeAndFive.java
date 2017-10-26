@@ -38,7 +38,7 @@ public class ThreeAndFive {
         
         job.setMapperClass(ThreeAndFiveMapper.class);
         
-        //Uncommented this for faster reducer
+        //Uncomment this for faster reducer
         //job.setCombinerClass(ThreeAndFiveReducer.class);
         job.setReducerClass(ThreeAndFiveReducer.class);
         
