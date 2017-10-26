@@ -1,0 +1,9 @@
+Map 00:02:31
+Reducer 00:00:57
+
+With combiner:
+Map 00:02:08
+Reducer 00:00:03
+
+3	90947755
+5	62867662
